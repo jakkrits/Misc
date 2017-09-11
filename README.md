@@ -1,4 +1,4 @@
-# Misc ![Notbook](https://image.flaticon.com/icons/svg/124/124814.svg)
+# Misc ![Notbook]()
 Graphics from [flaticon.com](www.flaticon.com)
 
 | Content | Url  | Remark |
