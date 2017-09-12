@@ -7,7 +7,7 @@
 </br>
 ![Slide 2](https://github.com/jakkrits/Misc/blob/master/assets/Slide2.png)
 </br>
-1.
+1. Not all the bulbs have the same longevity and power consumption -> they have some __*variation*__ in both longevity and power consumption
 </br>
 ![Slide 3](https://github.com/jakkrits/Misc/blob/master/assets/Slide3.png)
 </br>
