@@ -20,3 +20,13 @@
 
 * You can't include 'men', 'women from other countries', 'older than 35 or younger than 18 female'.
 * If half of you sample is NBA female, then they do not representn the whole population (NBA players are much taller than average).
+* Like friend chooses friends to form a sample group (as they are like-minded).
+* Say you call landline to collect interview data, but people mostly use mobile now. So people you got from landline interview does not necessarily represent the whole population.
+
+![Slide 5](assets/slide5.png)
+
+![Slide 6](assets/slide6.png)
+A *sample* is an __approximation__ of the *population*.
+* so always uncentainty attached to that approximation.
+
+![Slide 7](assets/slide7.png)
