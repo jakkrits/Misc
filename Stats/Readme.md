@@ -1,6 +1,7 @@
-# Statistics Review
-###### Notes from Youtube video created by [Brandon Foltz](https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA)
-## Population VS Sample Data
+## Statistics Review
+##### Notes from Youtube video created by [Brandon Foltz](https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA)
+# Population VS Sample Data
+[video](https://www.youtube.com/watch?v=8X2xfwBP4uo&list=PLAshlHpA2Iwc10-3HIioqUtqG0Fc4MNpp&index=1&t=207s)
 ![Slide](assets/Slide1.png)
 
 1. Not all the bulbs have the same longevity and power consumption -> they have some __*variation*__ (__standard deviation__) in both longevity and power consumption.
@@ -30,3 +31,26 @@ A *sample* is an __approximation__ of the *population*.
 * so always uncentainty attached to that approximation.
 
 ![Slide 7](assets/slide7.png)
+
+# Measure of Varibility:
+## Variance & Standard Deviation
+##### When you take sample out of the whole population, you will have errors or uncertainty => *variability*
+We'll measure it -> variance & SD.
+
+![Slide 8](assets/slide8.png)
+![Slide 9](assets/slide9.png)
+* Same *__mean__* doesn't tell anythin.
+* Look at how data points show **spread** (or *distribution* or *variability*)
+* Both classes have the same *mean* but Class1 has greater *variability* (or more spread out).
+* Students in Class2 are more consistent to the scores (closer to the *mean*).
+
+![Slide 10](assets/slide10.png)
+* Variance & SD help us answer -> how far datapoints are from the mean.
+* Variance & SD are lower if spread less (see green stars vs blue stars above).
+* Mean, Variance, SD should be used to compare against each other or against theoretical values.
+
+![Slide 11](assets/slide11.png)
+* SD = sum of (diffences)
+
+# Understand Z-Score
+## Measures of Variability
