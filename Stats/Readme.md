@@ -55,5 +55,7 @@ We'll measure it -> variance & SD.
 ![Slide 14](assets/slide14.png)
 ![Slide 15](assets/slide15.png)
 ![Slide 16](assets/slide16.png)
+
+
 # Understand Z-Score
 ## Measures of Variability
