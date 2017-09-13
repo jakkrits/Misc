@@ -52,5 +52,8 @@ We'll measure it -> variance & SD.
 ![Slide 11](assets/slide11.png)
 * SD = sum of (diffences)
 
+### Example - 2010 & 2011 NFL Goal Kick Data
+
+
 # Understand Z-Score
 ## Measures of Variability
