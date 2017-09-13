@@ -60,7 +60,7 @@ We'll measure it -> variance & SD.
 
 ### Example - 2010 & 2011 NFL Goal Kick Data
 The [excel](assets/nfl.xlsx) and [numbers (Mac)](assets/nfl.numbers) files are included.
-* note that the database obtained for this is different from the one shown in the original clips. Numbers (Number of datasets, Mean, Variance, and Standard Deviation) are a little bit different. 
+* note that the [database obtained](http://www.nfl.com/stats/categorystats?seasonType=REG&d-447263-n=1&d-447263-o=2&d-447263-p=1&d-447263-s=KICKING_FG_LONG&tabSeq=0&season=2010&Submit=Go&experience=&archive=true&statisticCategory=FIELD_GOALS&conference=null&qualified=false) for this is different from the one shown in the original clips. Numbers (Number of datasets, Mean, Variance, and Standard Deviation) are a little bit different. 
 
 Below are the screenshots of 2010 and 2011 field goals.
 In this example we're interested in 'Line of Scrimmage' for the coach to analyze the distance for his or her kickers.
