@@ -62,5 +62,8 @@ In this example we're interested in 'Line of Scrimmage' for the coach to analyze
 'Scrimmage' = 'Lng' - 17 yards.
 'Placement' = 'Lng' - 7 Yards.
 
+### Example - 2010 & 2011 NFL Goal Kick Data
+
+
 # Understand Z-Score
 ## Measures of Variability
