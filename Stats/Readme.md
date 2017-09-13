@@ -77,5 +77,17 @@ In this example we're interested in 'Line of Scrimmage' for the coach to analyze
 
 Notice the bell shape (histogram), the higher the SD, the more spread of the bell shape.
 
-# Understand Z-Score
-## Measures of Variability
+## Understand Z-Score
+### Measures of Variability
+Z-Score is a measurement of variability (how far is that datapoint from the mean) in multiplication of SD.
+
+</br>
+So, the mean itself has z-score of 0.
+You would get a distance (z-score) by finding the distance from datapoint to the mean (x - x-bar) divided by SD.
+
+![Slide 22](assets/Slide22.png)
+![Slide 23](assets/Slide23.png)
+![Slide 24](assets/Slide24.png)
+![Slide 25](assets/Slide25.png)
+![Slide 26](assets/Slide26.png)
+![Slide 27](assets/Slide27.png)
