@@ -50,7 +50,12 @@ We'll measure it -> variance & SD.
 * Mean, Variance, SD should be used to compare against each other or against theoretical values.
 
 ![Slide 11](assets/slide11.png)
-* SD = sum of (diffences)
+![Slide 12](assets/slide12.png)
+![Slide 13](assets/slide13.png)
+![Slide 14](assets/slide14.png)
+![Slide 15](assets/slide15.png)
+![Slide 16](assets/slide16.png)
+
 
 ### Example - 2010 & 2011 NFL Goal Kick Data
 
