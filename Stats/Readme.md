@@ -60,10 +60,8 @@ Below are the screenshots of 2010 and 2011 field goals.
 In this example we're interested in 'Line of Scrimmage' for the coach to analyze the distance for his or her kickers.
 
 'Scrimmage' = 'Lng' - 17 yards.
+</br>
 'Placement' = 'Lng' - 7 Yards.
-
-### Example - 2010 & 2011 NFL Goal Kick Data
-
 
 # Understand Z-Score
 ## Measures of Variability
