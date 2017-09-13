@@ -1,6 +1,6 @@
 ## Statistics Review
 ##### Notes from Youtube video created by [Brandon Foltz](https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA)
-# Population VS Sample Data
+# 1. Population VS Sample Data
 [video](https://www.youtube.com/watch?v=8X2xfwBP4uo&list=PLAshlHpA2Iwc10-3HIioqUtqG0Fc4MNpp&index=1&t=207s)
 ![Slide](assets/Slide1.png)
 
@@ -50,12 +50,17 @@ We'll measure it -> variance & SD.
 * Mean, Variance, SD should be used to compare against each other or against theoretical values.
 
 ![Slide 11](assets/slide11.png)
-![Slide 12](assets/slide12.png)
-![Slide 13](assets/slide13.png)
-![Slide 14](assets/slide14.png)
-![Slide 15](assets/slide15.png)
-![Slide 16](assets/slide16.png)
+* SD = sum of (diffences)
 
+### Example - 2010 & 2011 NFL Goal Kick Data
+The [excel](assets/nfl.xlsx) and [numbers (Mac)](assets/nfl.numbers) files are included.
+* note that the database obtained for this is different from the one shown in the original clips. Numbers (Number of datasets, Mean, Variance, and Standard Deviation) are a little bit different. 
+
+Below are the screenshots of 2010 and 2011 field goals.
+In this example we're interested in 'Line of Scrimmage' for the coach to analyze the distance for his or her kickers.
+
+'Scrimmage' = 'Lng' - 17 yards.
+'Placement' = 'Lng' - 7 Yards.
 
 # Understand Z-Score
 ## Measures of Variability
