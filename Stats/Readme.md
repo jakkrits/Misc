@@ -50,7 +50,13 @@ We'll measure it -> variance & SD.
 * Mean, Variance, SD should be used to compare against each other or against theoretical values.
 
 ![Slide 11](assets/Slide11.png)
+![Slide 12](assets/Slide12.png)
+![Slide 13](assets/Slide13.png)
+![Slide 14](assets/Slide14.png)
+![Slide 15](assets/Slide15.png)
+![Slide 16](assets/Slide16.png)
 * SD = sum of (diffences)
+
 
 ### Example - 2010 & 2011 NFL Goal Kick Data
 The [excel](assets/nfl.xlsx) and [numbers (Mac)](assets/nfl.numbers) files are included.
@@ -62,6 +68,14 @@ In this example we're interested in 'Line of Scrimmage' for the coach to analyze
 'Scrimmage' = 'Lng' - 17 yards.
 </br>
 'Placement' = 'Lng' - 7 Yards.
+
+![Slide 17](assets/Slide17.png)
+![Slide 18](assets/Slide18.png)
+![Slide 20](assets/Slide20.png)
+![Slide 21](assets/Slide21.png)
+![Slide 19](assets/Slide19.png)
+
+Notice the bell shape (histogram), the higher the SD, the more spread of the bell shape.
 
 # Understand Z-Score
 ## Measures of Variability
