@@ -24,32 +24,32 @@
 * Like friend chooses friends to form a sample group (as they are like-minded).
 * Say you call landline to collect interview data, but people mostly use mobile now. So people you got from landline interview does not necessarily represent the whole population.
 
-![Slide 5](assets/slide5.png)
+![Slide 5](assets/Slide5.png)
 
-![Slide 6](assets/slide6.png)
+![Slide 6](assets/Slide6.png)
 A *sample* is an __approximation__ of the *population*.
 * so always uncentainty attached to that approximation.
 
-![Slide 7](assets/slide7.png)
+![Slide 7](assets/Slide7.png)
 
 # Measure of Varibility:
 ## Variance & Standard Deviation
 ##### When you take sample out of the whole population, you will have errors or uncertainty => *variability*
 We'll measure it -> variance & SD.
 
-![Slide 8](assets/slide8.png)
-![Slide 9](assets/slide9.png)
+![Slide 8](assets/Slide8.png)
+![Slide 9](assets/Slide9.png)
 * Same *__mean__* doesn't tell anythin.
 * Look at how data points show **spread** (or *distribution* or *variability*)
 * Both classes have the same *mean* but Class1 has greater *variability* (or more spread out).
 * Students in Class2 are more consistent to the scores (closer to the *mean*).
 
-![Slide 10](assets/slide10.png)
+![Slide 10](assets/Slide10.png)
 * Variance & SD help us answer -> how far datapoints are from the mean.
 * Variance & SD are lower if spread less (see green stars vs blue stars above).
 * Mean, Variance, SD should be used to compare against each other or against theoretical values.
 
-![Slide 11](assets/slide11.png)
+![Slide 11](assets/Slide11.png)
 * SD = sum of (diffences)
 
 ### Example - 2010 & 2011 NFL Goal Kick Data
