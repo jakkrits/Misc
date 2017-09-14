@@ -91,3 +91,41 @@ You would get a distance (z-score) by finding the distance from datapoint to the
 ![Slide 25](assets/Slide25.png)
 ![Slide 26](assets/Slide26.png)
 ![Slide 27](assets/Slide27.png)
+
+# 2. Normal Distribution
+### Is my data normal?
+#### Before getting into stats calcs, we should visually see the data first.
+##### Because some if not most calcs assume your data to be normally distributed.
+
+![Slide 29](assets/Slide29.png)
+
+These are visual tools to help you see data graphially.
+![Slide 30](assets/Slide30.png)
+
+![Slide 31](assets/Slide31.png)
+![Slide 32](assets/Slide32.png)
+![Slide 33](assets/Slide33.png)
+![Slide 34](assets/Slide34.png)
+![Slide 35](assets/Slide35.png)
+![Slide 36](assets/Slide36.png)
+For example, at the frequency of 5.0, Stem of 2 --> Each data point => Stem x Stem witdh 'Joined By' Leaf
+</br>
+0.021, 0.023, 0.023, 0.023, and 0.024
+![Slide 37](assets/Slide37.png)
+Box plots can also tell you if your data is normal if:
+* it looks symmetrical.
+* Quartile 1 & Quartile 3 are pretty much the same distance from the __median__ (datapoint in the middle).
+* Top and bottom whiskers (vertical lines) are pretty much same length.
+
+Note that 5 data points on above top whisker and 4 points below bottom whisker are data points that *__1.5 interquartile ranges__*.
+
+![Slide 38](assets/Slide38.png)
+![Slide 39](assets/Slide39.png)
+
+#### Example - Is this data set normal?
+
+![Slide 40](assets/Slide40.png)
+![Slide 41](assets/Slide41.png)
+![Slide 42](assets/Slide42.png)
+So it does not fit normal distribution.
+(Fits Lognormal)
