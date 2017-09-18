@@ -184,4 +184,30 @@ Example: We have 4 variabes with number of sample of 20. Output from SPSS as fol
 * Covariance between the 2 variables are shown.
 ![Slide 59](assets/Slide59.png)
 
+## 3.3 Correlation
+- Same as Covariance but has 'Strength' indicator on top of 'Direction'.
+- Correlation is between -1 and +1. So you can compare variables with different units.
+- Correlation is standardized. Like z-score which measures how far that data point is from the mean (remember mean itself is 0).
+![Slide 60](assets/Slide60.png)
 
+*__What to look for__*
+![Slide 61](assets/Slide61.png)
+- VISUALLY LOOK AT SCATTER PLOT FIRST.
+- Correlation is for LINEAR ONLY.
+- Correlation might show up for some not-making sense stuff. Like full moon and number of dog barks.
+- Watch out for correlation strength.
+
+![Slide 62](assets/Slide62.png)
+![Slide 63](assets/Slide63.png)
+#### Example
+SPSS output for DJI vs SP500 -> Correlation = 0.974
+- DIAGONALS = Correlation
+![Slide 64](assets/Slide64.png)
+![Slide 65](assets/Slide65.png)
+#### Example
+![Slide 66](assets/Slide66.png)
+![Slide 67](assets/Slide67.png)
+![Slide 68](assets/Slide68.png)
+![Slide 69](assets/Slide69.png)
+![Slide 70](assets/Slide70.png)
+![Slide 71](assets/Slide71.png)
