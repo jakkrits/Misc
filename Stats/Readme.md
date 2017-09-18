@@ -129,3 +129,45 @@ Note that 5 data points on above top whisker and 4 points below bottom whisker a
 ![Slide 42](assets/Slide42.png)
 So it does not fit normal distribution.
 (Fits Lognormal)
+ # 3. Bivariate Relationship
+ ## Covariance
+ Looking at linear relationship between the 2 variables. *How they behave in PAIR.*
+ These are loosely related:
+ - Covariance
+ - Linear Regression
+ - Correlation
+
+*__Covariance Example__*: Relationship between S&P VS. Dow Jones monthly return in 2012.
+* At time '1' S&P return of 3.97% vs Dow Jones of 2.49%.
+* If 'var A' moves this much, how would the 'var B' behave?
+* It has 'LINEAR' pattern.
+* If SP500 increases, DJI will also increase.
+* This represent the reality that both of these indexes measure the same thing -- overall performance of stock market (but different ways).
+![Slide 43](assets/Slide43.png)
+![Slide 44](assets/Slide44.png)
+
+#### Covariance is about DIRECTION only.
+not strength.
+</br>
+'+' -> One goes up, the other goes up.
+'-' -> One goes up, the other goes down.
+'0' -> No pattern.
+![Slide 45](assets/Slide45.png)
+![Slide 46](assets/Slide46.png)
+![Slide 47](assets/Slide47.png)
+
+#### Formulas
+Summation of (Each data point subtracts its mean) Times (Each data point subtracts its mean)
+Divided by n - 1 or N __depending upon sample or population__
+![Slide 48](assets/Slide48.png)
+
+#### Example
+![Slide 49](assets/Slide49.png)
+![Slide 50](assets/Slide50.png)
+![Slide 51](assets/Slide51.png)
+![Slide 52](assets/Slide52.png)
+![Slide 53](assets/Slide53.png)
+![Slide 54](assets/Slide54.png)
+* Take a sample of 10 data points collected each hours for number of workers (x) on the floor VS. number of product made (y) per that hour.
+* We can calc that Covariance is POSITIVE 106.93 which means more workers more products, less workers less products.
+* In Covariance, we only interested in 'POSITIVE' direction (sign) not the value of 106.93.
