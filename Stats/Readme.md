@@ -130,7 +130,7 @@ Note that 5 data points on above top whisker and 4 points below bottom whisker a
 So it does not fit normal distribution.
 (Fits Lognormal)
  # 3. Bivariate Relationship
- ## Covariance
+ ## 3.1 Covariance
  Looking at linear relationship between the 2 variables. *How they behave in PAIR.*
  These are loosely related:
  - Covariance
@@ -171,3 +171,17 @@ Divided by n - 1 or N __depending upon sample or population__
 * Take a sample of 10 data points collected each hours for number of workers (x) on the floor VS. number of product made (y) per that hour.
 * We can calc that Covariance is POSITIVE 106.93 which means more workers more products, less workers less products.
 * In Covariance, we only interested in 'POSITIVE' direction (sign) not the value of 106.93.
+
+## 3.2 Covariance Matrix
+Example: We have 4 variabes with number of sample of 20. Output from SPSS as follows:
+![Slide 55](assets/Slide55.png)
+* First thing we should do is VISUALLY INSPECT it wheter we might or might not have a linear relationship between what and what.
+*__DUPLICATES__** means upper and lower diagonal are the same.
+![Slide 56](assets/Slide56.png)
+* Diagonals are **VARIANCE.**
+![Slide 57](assets/Slide57.png)
+![Slide 58](assets/Slide58.png)
+* Covariance between the 2 variables are shown.
+![Slide 59](assets/Slide59.png)
+
+
