@@ -211,3 +211,16 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide 69](assets/Slide69.png)
 ![Slide 70](assets/Slide70.png)
 ![Slide 71](assets/Slide71.png)
+
+# 4. Permutations VS. Combinations
+![Slide 72](assets/Slide72.png)
+![Slide 73](assets/Slide73.png)
+![Slide 74](assets/Slide74.png)
+![Slide 75](assets/Slide75.png)
+![Slide 76](assets/Slide76.png)
+![Slide 77](assets/Slide77.png)
+ 
+## 4.1 Permutations
+## 4.2 Combinations
+
+ 
