@@ -220,7 +220,55 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide 76](assets/Slide76.png)
 ![Slide 77](assets/Slide77.png)
  
-## 4.1 Permutations
-## 4.2 Combinations
+## 4.1 Combinations
+### Order doesn't matter
+![Slide 78](assets/Combination.png)
+![Slide 79](assets/Combination1.png)
+![Slide 80](assets/Combination2.png)
+## 4.2 Permutations
+### Order matters
+![Slide 81](assets/Permutation.png)
+![Slide 82](assets/Permutation1.png)
+![Slide 83](assets/Permutation2.png) 
 
- 
+## 4.3 Examples of Combinations
+### Losing Marbles
+![Slide](assets/LosingMarble/LosingMarble1.png)
+![Slide](assets/LosingMarble/LosingMarble2.png)
+![Slide](assets/LosingMarble/LosingMarble3.png)
+![Slide](assets/LosingMarble/LosingMarble4.png)
+![Slide](assets/LosingMarble/LosingMarble5.png)
+![Slide](assets/LosingMarble/LosingMarble6.png)
+![Slide](assets/LosingMarble/LosingMarble7.png)
+![Slide](assets/LosingMarble/LosingMarble8.png)
+![Slide](assets/LosingMarble/LosingMarble9.png)
+### Dogs of the Dow
+![Slide](assets/DogsOfTheDow/DogsOfTheDow1.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow2.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow3.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow4.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow5.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow6.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow7.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow8.png)
+![Slide](assets/DogsOfTheDow/DogsOfTheDow9.png)
+### Nearly Normal
+![Slide](assets/NearlyNormal/NearlyNormal1.png)
+![Slide](assets/NearlyNormal/NearlyNormal2.png)
+![Slide](assets/NearlyNormal/NearlyNormal3.png)
+![Slide](assets/NearlyNormal/NearlyNormal4.png)
+![Slide](assets/NearlyNormal/NearlyNormal5.png)
+![Slide](assets/NearlyNormal/NearlyNormal6.png)
+![Slide](assets/NearlyNormal/NearlyNormal7.png)
+### Under The Curve
+![Slide](assets/UnderTheCurve/UnderTheCurve1.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve2.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve3.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve4.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve5.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve6.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve7.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve8.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve9.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve10.png)
+![Slide](assets/UnderTheCurve/UnderTheCurve11.png)
