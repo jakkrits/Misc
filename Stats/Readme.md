@@ -443,3 +443,13 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac18.png)
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac19.png)
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac20.png)
+
+## 5.9 Binomial Example - Accident in Factory
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident1.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident2.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident3.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident4.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident5.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident6.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident7.png)
+![Slide](assets/BinomialExample_Accident/BinomialExample_Accident8.png)
