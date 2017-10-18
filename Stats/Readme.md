@@ -353,3 +353,16 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable3.png)
 ![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable4.png)
 ![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable5.png)
+
+## 5.3 Discrete Random Variable Probability
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb1.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb2.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb3.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb4.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb5.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb6.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb7.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb8.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb9.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb10.png)
+![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb11.png)
