@@ -310,3 +310,46 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/VennDiagramRegion/VennDiagramRegion9.png)
 ![Slide](assets/VennDiagramRegion/VennDiagramRegion10.png)
 ![Slide](assets/VennDiagramRegion/VennDiagramRegion11.png)
+
+## 4.7 Venn Diagram Practice
+![Slide](assets/VennPractice/VennPractice1.png)
+![Slide](assets/VennPractice/VennPractice2.png)
+![Slide](assets/VennPractice/VennPractice3.png)
+![Slide](assets/VennPractice/VennPractice4.png)
+![Slide](assets/VennPractice/VennPractice5.png)
+![Slide](assets/VennPractice/VennPractice6.png)
+
+## 4.8 Joint & Marginal Probability
+![Slide](assets/JointMarginalProb/JointMarginalProb1.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb2.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb3.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb4.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb5.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb6.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb7.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb8.png)
+![Slide](assets/JointMarginalProb/JointMarginalProb9.png)
+
+## 4.9 Playing With Full Deck (Combination Example)
+![Slide](assets/PlayingFullDeck/PlayingFullDeck1.png)
+![Slide](assets/PlayingFullDeck/PlayingFullDeck2.png)
+![Slide](assets/PlayingFullDeck/PlayingFullDeck3.png)
+![Slide](assets/PlayingFullDeck/PlayingFullDeck4.png)
+![Slide](assets/PlayingFullDeck/PlayingFullDeck5.png)
+![Slide](assets/PlayingFullDeck/PlayingFullDeck6.png)
+
+# 5. Discrete Probability Distributions (PL05)
+## 5.1 Random Variable Basics
+![Slide](assets/RandomVariableBasic/RandomVariableBasic1.png)
+![Slide](assets/RandomVariableBasic/RandomVariableBasic2.png)
+![Slide](assets/RandomVariableBasic/RandomVariableBasic3.png)
+![Slide](assets/RandomVariableBasic/RandomVariableBasic4.png)
+![Slide](assets/RandomVariableBasic/RandomVariableBasic5.png)
+![Slide](assets/RandomVariableBasic/RandomVariableBasic6.png)
+
+## 5.2 Discrete Random Variable Basics
+![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable1.png)
+![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable2.png)
+![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable3.png)
+![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable4.png)
+![Slide](assets/DiscreteRandomVariable/DiscreteRandomVariable5.png)
