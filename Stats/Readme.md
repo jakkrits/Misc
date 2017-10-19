@@ -485,7 +485,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PoissonExample_BankDeer/PoissonExample_BankDeer13.png)
 ![Slide](assets/PoissonExample_BankDeer/PoissonExample_BankDeer14.png)
 
-## 5.12 Uniform Probability Distribution
+# 6. Uniform Probability Distribution
 ![Slide](assets/UniformProbabilityDistribution/UniformProbabilityDistribution1.png)
 ![Slide](assets/UniformProbabilityDistribution/UniformProbabilityDistribution2.png)
 ![Slide](assets/UniformProbabilityDistribution/UniformProbabilityDistribution3.png)
@@ -502,7 +502,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/UniformProbabilityDistribution/UniformProbabilityDistribution14.png)
 ![Slide](assets/UniformProbabilityDistribution/UniformProbabilityDistribution15.png)
 
-## 5.13 A Tour of Normal Distribution
+## 6.1 A Tour of Normal Distribution
 ![Slide](assets/NormalDistribution/NormalDistribution1.png)
 ![Slide](assets/NormalDistribution/NormalDistribution2.png)
 ![Slide](assets/NormalDistribution/NormalDistribution3.png)
@@ -520,3 +520,16 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/NormalDistribution/NormalDistribution15.png)
 ![Slide](assets/NormalDistribution/NormalDistribution16.png)
 ![Slide](assets/NormalDistribution/NormalDistribution17.png)
+
+## 6.2 Z or T Distribution?
+![Slide](assets/ZorT_Distribution/ZorT_Distribution1.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution2.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution3.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution4.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution5.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution6.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution7.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution8.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution9.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution10.png)
+![Slide](assets/ZorT_Distribution/ZorT_Distribution11.png)
