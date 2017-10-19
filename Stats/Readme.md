@@ -367,7 +367,22 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb10.png)
 ![Slide](assets/DiscreteRandomVariableProb/DiscreteRandomVariableProb11.png)
 
-## 5.4 Discrete Random Variance
+## 5.4 Expected Value
+![Slide](assets/ExpectedValue/ExpectedValue1.png)
+![Slide](assets/ExpectedValue/ExpectedValue2.png)
+![Slide](assets/ExpectedValue/ExpectedValue3.png)
+![Slide](assets/ExpectedValue/ExpectedValue4.png)
+![Slide](assets/ExpectedValue/ExpectedValue5.png)
+![Slide](assets/ExpectedValue/ExpectedValue6.png)
+![Slide](assets/ExpectedValue/ExpectedValue7.png)
+![Slide](assets/ExpectedValue/ExpectedValue8.png)
+![Slide](assets/ExpectedValue/ExpectedValue9.png)
+![Slide](assets/ExpectedValue/ExpectedValue10.png)
+![Slide](assets/ExpectedValue/ExpectedValue11.png)
+![Slide](assets/ExpectedValue/ExpectedValue12.png)
+![Slide](assets/ExpectedValue/ExpectedValue13.png)
+
+## 5.5 Discrete Random Variance
 ![Slide](assets/DiscreteRandomVarVariance/DiscreteRandomVarVariance1.png)
 ![Slide](assets/DiscreteRandomVarVariance/DiscreteRandomVarVariance2.png)
 ![Slide](assets/DiscreteRandomVarVariance/DiscreteRandomVarVariance3.png)
@@ -380,7 +395,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/DiscreteRandomVarVariance/DiscreteRandomVarVariance10.png)
 ![Slide](assets/DiscreteRandomVarVariance/DiscreteRandomVarVariance11.png)
 
-## 5.5 Binomial Distribution
+## 5.6 Binomial Distribution
 ![Slide](assets/BinomialDistribution/BinomialDistribution1.png)
 ![Slide](assets/BinomialDistribution/BinomialDistribution2.png)
 ![Slide](assets/BinomialDistribution/BinomialDistribution3.png)
@@ -399,7 +414,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/BinomialDistribution/BinomialDistribution16.png)
 ![Slide](assets/BinomialDistribution/BinomialDistribution17.png)
 
-## 5.6 Binomial Mean & Standard Deviation
+## 5.7 Binomial Mean & Standard Deviation
 ![Slide](aseets/BinomailMeanSD/BinomailMeanSD1.png)
 ![Slide](aseets/BinomailMeanSD/BinomailMeanSD2.png)
 ![Slide](aseets/BinomailMeanSD/BinomailMeanSD3.png)
@@ -410,7 +425,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](aseets/BinomailMeanSD/BinomailMeanSD8.png)
 ![Slide](aseets/BinomailMeanSD/BinomailMeanSD9.png)
 
-## 5.7 Binomial Example - Sales Problem
+## 5.8 Binomial Example - Sales Problem
 ![Slide](assets/BinomialExample_Sales/BinomialExample_Sales1.png)
 ![Slide](assets/BinomialExample_Sales/BinomialExample_Sales2.png)
 ![Slide](assets/BinomialExample_Sales/BinomialExample_Sales3.png)
@@ -422,7 +437,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/BinomialExample_Sales/BinomialExample_Sales9.png)
 ![Slide](assets/BinomialExample_Sales/BinomialExample_Sales10.png)
 
-## 5.8 Binomial Example - Mac OSX Users
+## 5.9 Binomial Example - Mac OSX Users
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac1.png)
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac2.png)
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac3.png)
@@ -444,7 +459,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac19.png)
 ![Slide](assets/BinomialExample_Mac/BinomialExample_Mac20.png)
 
-## 5.9 Binomial Example - Accident in Factory
+## 5.10 Binomial Example - Accident in Factory
 ![Slide](assets/BinomialExample_Accident/BinomialExample_Accident1.png)
 ![Slide](assets/BinomialExample_Accident/BinomialExample_Accident2.png)
 ![Slide](assets/BinomialExample_Accident/BinomialExample_Accident3.png)
@@ -454,7 +469,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/BinomialExample_Accident/BinomialExample_Accident7.png)
 ![Slide](assets/BinomialExample_Accident/BinomialExample_Accident8.png)
 
-## 5.10 Poisson Distribution
+## 5.11 Poisson Distribution
 ![Slide](assets/PoissonDistribution/PoissonDistribution1.png)
 ![Slide](assets/PoissonDistribution/PoissonDistribution2.png)
 ![Slide](assets/PoissonDistribution/PoissonDistribution3.png)
@@ -469,7 +484,7 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PoissonDistribution/PoissonDistribution12.png)
 ![Slide](assets/PoissonDistribution/PoissonDistribution13.png)
 
-## 5.11 Poisson Example - Bank & Deer
+## 5.12 Poisson Example - Bank & Deer
 ![Slide](assets/PoissonExample_BankDeer/PoissonExample_BankDeer1.png)
 ![Slide](assets/PoissonExample_BankDeer/PoissonExample_BankDeer2.png)
 ![Slide](assets/PoissonExample_BankDeer/PoissonExample_BankDeer3.png)
