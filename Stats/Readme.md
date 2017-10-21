@@ -613,3 +613,23 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL07-Sampling-SamplingDistribution/SampleMeanProximityToPopMean/10.png)
 ![Slide](assets/PL07-Sampling-SamplingDistribution/SampleMeanProximityToPopMean/11.png)
 ![Slide](assets/PL07-Sampling-SamplingDistribution/SampleMeanProximityToPopMean/12.png)
+
+# 8. Confidence Interval Estimation
+## 8.1 Confidence Interval Estimation - Sigma Known
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/1.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/2.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/3.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/4.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/5.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/6.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/7.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/8.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/9.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/10.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/11.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/12.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/13.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/14.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/15.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/16.png)
+![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceIntervalEstimation_Sigma_Known/17.png)
