@@ -668,3 +668,22 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceInterval-Example-SamplesNeeded/17.png)
 ![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceInterval-Example-SamplesNeeded/18.png)
 ![Slide](assets/PL08-Confidence_Interval_Estimation/ConfidenceInterval-Example-SamplesNeeded/19.png)
+
+# 9. Hypothesis Formulation
+## 9.1 Introduction to Hypothesis
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/1.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/2.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/3.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/4.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/5.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/6.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/7.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/8.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/9.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/10.png)
+![Slide](assets/PL09-Hypothesis-Formulation/Intro-Hypothesis/11.png)
+
+## 9.2 Null and Alternative Hypotheses
+![Slide](assets/PL09-Hypothesis-Formulation/NullVSAlternative/1.png)
+![Slide](assets/PL09-Hypothesis-Formulation/NullVSAlternative/2.png)
+![Slide](assets/PL09-Hypothesis-Formulation/NullVSAlternative/3.png)
