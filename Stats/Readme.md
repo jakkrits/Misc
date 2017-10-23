@@ -687,3 +687,17 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL09-Hypothesis-Formulation/NullVSAlternative/1.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/NullVSAlternative/2.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/NullVSAlternative/3.png)
+
+## 9.3 Hypothesis Examples
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/1.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/2.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/3.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/4.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/5.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/6.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/7.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/8.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/9.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/10.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/11.png)
+![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/12.png)
