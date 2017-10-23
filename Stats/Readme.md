@@ -703,7 +703,6 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL09-Hypothesis-Formulation/HypothesisExamples/12.png)
 
 ## 9.4 Type I & Type II Errors
-
 ![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIErrors/1.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIErrors/2.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIErrors/3.png)
@@ -715,3 +714,13 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIErrors/9.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIErrors/10.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIErrors/11.png)
+
+## 9.5 Type I & Type II Examples
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/1.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/2.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/3.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/4.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/5.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/6.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/7.png)
+![Slide](assets/PL09-Hypothesis-Formulation/TypeITypeIIExamples/8.png)
