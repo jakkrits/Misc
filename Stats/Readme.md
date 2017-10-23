@@ -758,3 +758,9 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/8.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/9.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/10.png)
+
+## 9.9 Single Sample Hypothesis Z-test Alpha & P-Values
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-testAlpha_PValues/1.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-testAlpha_PValues/2.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-testAlpha_PValues/3.png)
+
