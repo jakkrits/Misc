@@ -746,3 +746,15 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test/6.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test/7.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test/8.png)
+
+## 9.8 Single Sample Hypothesis Z-test Examples
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/1.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/2.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/3.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/4.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/5.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/6.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/7.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/8.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/9.png)
+![Slide](assets/PL09-Hypothesis-Formulation/SingleSampleHypothesisZ-test-Examples/10.png)
