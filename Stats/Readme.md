@@ -840,3 +840,18 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL09-Hypothesis-Formulation/CalculatingTypeIIExamples/22.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/CalculatingTypeIIExamples/23.png)
 ![Slide](assets/PL09-Hypothesis-Formulation/CalculatingTypeIIExamples/24.png)
+
+# 10. PL10 Z-tests T-tests for Two Populations
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/1.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/2.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/3.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/4.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/5.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/6.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/7.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/8.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/9.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/10.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/11.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/12.png)
+![Slide](assets/PL10_Z-tests_T-tests_for_Two_Populations/Z-TestForTwoPops/13.png)
