@@ -19,4 +19,37 @@ This repo is my personal note of detailed instruction on building Jetson RACECAR
 # Getting Started
 ## Step 1. Install Nvidia Jetpack on Host PC & Jetson TX1.
 ### In the end of this step you will be able to run CUDA examples on Jetson TX1.
-![video](https://lh3.googleusercontent.com/6-EE7GCUbd_zza-2c_2OwihkmH0L6oQz4bHFaptoeedWok6fPlSYpTABGtx0J7-1IWWFAcfmNnOD7EAZEvnPdcwgYae3mnMoCoUj6LUIiHVjvY8YYLYDcGYzEcadK_DSpCooetOOETB_MN_CQ1w7Z9cwrv8Vn7RSpBl5xebIOMQk5wijETAp3e_EvGG1tdNB_punkOP4pP_F1eLKlR1BfhOWLgN3CaSlL96lGRNfZNwYTzO0NrlWNnhlSdiXR8MvqQ6own4uVU6CDbj6F-UdMkcOINSIQ2QNZ31irTqNNz0huBOlnYjpYuKHJshrB1SQXbRyjWwh7G4FFS4eHaSH75FSZUJ19kXIpY2dCxemjODbE1BmjAoV1IoNQEOAdp2nPNGrY3Fdjr_ltfWXP05OifUClhIpkjsrs-6xmpWQTZ9nBD7VJJQ28o7-OMIXaz63AUD3PV_N7Idtv8pXPsPR7Y1Pai9SAMDKrf8VpvYf8mGrnLneikS-ZxJW1qbRD28Z4YblmkD95vKGA69sdxJFk_Bvh-K9P4kPF5fxvcDgPcxFefaKDqfB4BnxaawQy9OzOBFdTnaAW3L8atv2_fRJcxigyBkQyHFESl87DMjibD8=w704-h1250-k-no)
+![video](https://lh3.googleusercontent.com/6-EE7GCUbd_zza-2c_2OwihkmH0L6oQz4bHFaptoeedWok6fPlSYpTABGtx0J7-1IWWFAcfmNnOD7EAZEvnPdcwgYae3mnMoCoUj6LUIiHVjvY8YYLYDcGYzEcadK_DSpCooetOOETB_MN_CQ1w7Z9cwrv8Vn7RSpBl5xebIOMQk5wijETAp3e_EvGG1tdNB_punkOP4pP_F1eLKlR1BfhOWLgN3CaSlL96lGRNfZNwYTzO0NrlWNnhlSdiXR8MvqQ6own4uVU6CDbj6F-UdMkcOINSIQ2QNZ31irTqNNz0huBOlnYjpYuKHJshrB1SQXbRyjWwh7G4FFS4eHaSH75FSZUJ19kXIpY2dCxemjODbE1BmjAoV1IoNQEOAdp2nPNGrY3Fdjr_ltfWXP05OifUClhIpkjsrs-6xmpWQTZ9nBD7VJJQ28o7-OMIXaz63AUD3PV_N7Idtv8pXPsPR7Y1Pai9SAMDKrf8VpvYf8mGrnLneikS-ZxJW1qbRD28Z4YblmkD95vKGA69sdxJFk_Bvh-K9P4kPF5fxvcDgPcxFefaKDqfB4BnxaawQy9OzOBFdTnaAW3L8atv2_fRJcxigyBkQyHFESl87DMjibD8=w704-h1250-k-no) [See Video](https://photos.app.goo.gl/RfneNR6vpnrY4Q6m1)
+
+1.1 Install virtual machine (ie. VirtualBox) running 64-bit Ubuntu 16.04 with at least 20 GB. You can skip this if you have Linux PC. 
+Here is my setup ![virtualbox](assets/virtualbox.png)
+
+1.2 Once logged in your newly installed Ubuntu, run 
+
+```sudo apt-get update && sudo apt-get upgrade -y```
+
+Tips: use fish shell for auto completion 
+
+```sudo apt-get install fish -y```
+
+Then you can activate fish shell instead of bash by typing ```fish```
+
+*** If you use VirtualBox, don't forget to install Guest Additions in order to pass USB drive to the virtual machine.
+![guest](assets/guest.png)
+
+1.3 Download Jetpack from [Nvidia](https://developer.nvidia.com/embedded/jetpack).
+(As of writing I'm on Jetpack 3.1)
+
+1.4 CD into downloaed directory and change file permission to run the script.
+
+```chmod 755 JetPack-L4T-3.1-linux-x64.run```
+
+1.5 Run the downloaded file.
+
+``` ./JetPack-L4T-3.1-linux-x64.run```
+
+* __select your applicable platform and select packages (choose 'no action' for the host and 'install' for the Jetson__)
+
+![select](assets/select.png)
+
+![packages](assets/packages.png)
