@@ -1099,3 +1099,20 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL12-Goodness_of_Fit_and_Independence_Tests/3-Chi-Square-SPSS/21.png)
 ![Slide](assets/PL12-Goodness_of_Fit_and_Independence_Tests/3-Chi-Square-SPSS/22.png)
 ![Slide](assets/PL12-Goodness_of_Fit_and_Independence_Tests/3-Chi-Square-SPSS/23.png)
+
+# 13 - ANOVA
+## 13.1 ANOVA - A Visual Introduction
+![Slide](assets/PL13-ANOVA/1-Intro/1.png)
+![Slide](assets/PL13-ANOVA/1-Intro/2.png)
+![Slide](assets/PL13-ANOVA/1-Intro/3.png)
+![Slide](assets/PL13-ANOVA/1-Intro/4.png)
+![Slide](assets/PL13-ANOVA/1-Intro/5.png)
+![Slide](assets/PL13-ANOVA/1-Intro/6.png)
+![Slide](assets/PL13-ANOVA/1-Intro/7.png)
+![Slide](assets/PL13-ANOVA/1-Intro/8.png)
+![Slide](assets/PL13-ANOVA/1-Intro/9.png)
+![Slide](assets/PL13-ANOVA/1-Intro/10.png)
+![Slide](assets/PL13-ANOVA/1-Intro/11.png)
+![Slide](assets/PL13-ANOVA/1-Intro/12.png)
+![Slide](assets/PL13-ANOVA/1-Intro/13.png)
+![Slide](assets/PL13-ANOVA/1-Intro/14.png)
