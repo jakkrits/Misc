@@ -1268,3 +1268,18 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL13-ANOVA/6-Two-Way-ANOVA-w-rep_Intro/23.png)
 ![Slide](assets/PL13-ANOVA/6-Two-Way-ANOVA-w-rep_Intro/24.png)
 ![Slide](assets/PL13-ANOVA/6-Two-Way-ANOVA-w-rep_Intro/25.png)
+
+## 13.7 Two-Way ANOVA with Replication - Interactions
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/1.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/2.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/3.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/4.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/5.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/6.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/7.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/8.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/9.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/10.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/11.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/12.png)
+![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/13.png)
