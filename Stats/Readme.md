@@ -1316,3 +1316,15 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/13.png)
 ![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/14.png)
 ![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/15.png)
+
+# 14.2 Simple Linear Regression - Algebra, Equations, and Patterns
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/1.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/2.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/3.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/4.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/5.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/6.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/7.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/8.png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/9png)
+![Slide](assets/PL14-Simple-Linear-Regression/2-Algebra-Eq-Patterns/10.png)
