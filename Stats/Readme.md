@@ -1283,3 +1283,18 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/11.png)
 ![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/12.png)
 ![Slide](assets/PL13-ANOVA/7-Two-Way-ANOVA-w-rep-Interactions/13.png)
+
+## 13.8 Two-Way ANOVA with replication - Marginal Mean Graphs
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/1.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/2.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/3.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/4.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/5.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/6.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/7.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/8.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/9.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/10.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/11.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/12.png)
+![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/13.png)
