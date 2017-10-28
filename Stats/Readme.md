@@ -1298,3 +1298,21 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/11.png)
 ![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/12.png)
 ![Slide](assets/PL13-ANOVA/8-Two-Way-ANOVA-w-rep-graph/13.png)
+
+# 14 Simple Linear Regression
+## 14.1 Simple Linear Regression - The Very Basics
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/1.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/2.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/3.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/4.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/5.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/6.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/7.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/8.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/9.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/10.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/11.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/12.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/13.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/14.png)
+![Slide](assets/PL14-Simple-Linear-Regression/1-Simple-Linear-Reg-Basics/15.png)
