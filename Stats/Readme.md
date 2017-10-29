@@ -1495,3 +1495,78 @@ SPSS output for DJI vs SP500 -> Correlation = 0.974
 ![Slide](assets/PL15-Multiple-Regression/7-Two-DummyVars2/10.png)
 ![Slide](assets/PL15-Multiple-Regression/7-Two-DummyVars2/11.png)
 
+# 16 Logistic Regression
+## 16.1 Introduction
+![Slide](assets/PL16-Logistic-Regression/1-Intro/1.png)
+![Slide](assets/PL16-Logistic-Regression/1-Intro/2.png)
+![Slide](assets/PL16-Logistic-Regression/1-Intro/3.png)
+![Slide](assets/PL16-Logistic-Regression/1-Intro/4.png)
+![Slide](assets/PL16-Logistic-Regression/1-Intro/5.png)
+![Slide](assets/PL16-Logistic-Regression/1-Intro/6.png)
+![Slide](assets/PL16-Logistic-Regression/1-Intro/7.png)
+
+## 16.2 Odd & Odd Ratios
+![Slide](assets/PL16-Logistic-Regression/2-Odds-Ratio/1.png)
+![Slide](assets/PL16-Logistic-Regression/2-Odds-Ratio/2.png)
+![Slide](assets/PL16-Logistic-Regression/2-Odds-Ratio/3.png)
+![Slide](assets/PL16-Logistic-Regression/2-Odds-Ratio/4.png)
+![Slide](assets/PL16-Logistic-Regression/2-Odds-Ratio/5.png)
+![Slide](assets/PL16-Logistic-Regression/2-Odds-Ratio/6.png)
+
+## 16.3 Logit & Regression Equation
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/1.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/2.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/3.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/4.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/5.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/6.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/7.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/8.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/9.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/10.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/11.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/12.png)
+![Slide](assets/PL16-Logistic-Regression/3-Logit-RegEq/13.png)
+
+## 16.4 Estimating the Probability
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/1.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/2.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/3.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/4.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/5.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/6.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/7.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/8.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/9.png)
+![Slide]G(assets/PL16-Logistic-Regression/4-Est-Prob/10.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/11.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/12.png)
+![Slide](assets/PL16-Logistic-Regression/4-Est-Prob/13.png)
+
+## 16.5 Odds Ratio for Any Interval
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/1.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/2.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/3.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/4.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/5.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/6.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/7.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/8.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/9.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/10.png)
+![Slide](assets/PL16-Logistic-Regression/5-Odds-Ratio-Any-Interval/11.png)
+
+# 17 ANCOVA
+## Intro
+![Slide](assets/PL17-ANCOVA/1-Intro/1.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/2.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/3.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/4.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/5.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/6.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/7.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/8.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/9.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/10.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/12.png)
+![Slide](assets/PL17-ANCOVA/1-Intro/13.png)
